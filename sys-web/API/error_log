@@ -1,0 +1,138 @@
+[09-Oct-2023 23:08:42 UTC] PHP Warning:  include_once(../database.php): Failed to open stream: No such file or directory in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:08:42 UTC] PHP Warning:  include_once(): Failed opening '../database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:08:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:8
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(8): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 8
+[09-Oct-2023 23:08:46 UTC] PHP Warning:  include_once(../database.php): Failed to open stream: No such file or directory in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:08:46 UTC] PHP Warning:  include_once(): Failed opening '../database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:08:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:8
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(8): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 8
+[09-Oct-2023 23:09:51 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:51 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:51 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:8
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(8): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 8
+[09-Oct-2023 23:09:54 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:54 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:54 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:09:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:8
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(8): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 8
+[09-Oct-2023 23:10:08 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 10
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  Undefined variable $username in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  Undefined variable $password in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  Undefined variable $dbname in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  Undefined variable $username in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  Undefined variable $password in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  Undefined variable $dbname in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:10:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 2
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  Undefined variable $ip in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  Undefined variable $username in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  Undefined variable $password in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  Undefined variable $dbname in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:11:28 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 10
+[09-Oct-2023 23:12:10 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:10 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:10 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:12:12 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:12 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:12 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:12:22 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:22 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:22 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:12:43 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:43 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:43 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:12:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:13:03 UTC] PHP Warning:  include_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:03 UTC] PHP Warning:  include_once(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:03 UTC] PHP Warning:  include_once(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:13:14 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:14 UTC] PHP Warning:  include(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:14 UTC] PHP Warning:  include(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:13:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:37 UTC] PHP Warning:  include(https://resi.fruitysys.com/API/database.php): Failed to open stream: no suitable wrapper could be found in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:37 UTC] PHP Warning:  include(): Failed opening 'https://resi.fruitysys.com/API/database.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 3
+[09-Oct-2023 23:13:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php:9
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php(9): mysqli_query()
+#1 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(24): get_users()
+#2 /home/fruitysy/public_html/resi.fruitysys.com/API/index.php(10): handle_get_request()
+#3 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 9
+[09-Oct-2023 23:14:26 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 7
+[09-Oct-2023 23:14:40 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 7
+[09-Oct-2023 23:14:41 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 7
+[09-Oct-2023 23:15:41 UTC] PHP Warning:  Undefined variable $servername in /home/fruitysy/public_html/resi.fruitysys.com/API/endpoints/user.php on line 7

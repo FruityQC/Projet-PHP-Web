@@ -1,0 +1,37 @@
+[06-Oct-2023 18:13:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 185
+[06-Oct-2023 18:23:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[06-Oct-2023 18:26:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[06-Oct-2023 18:27:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[06-Oct-2023 18:32:09 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[06-Oct-2023 18:42:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[08-Oct-2023 19:45:42 America/New_York] PHP Warning:  Undefined variable $nom in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new_room.php on line 16
+[08-Oct-2023 19:46:14 America/New_York] PHP Warning:  Undefined variable $nom in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new_room.php on line 16
+[08-Oct-2023 19:46:14 America/New_York] PHP Warning:  Undefined variable $perm in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new_room.php on line 21
+[08-Oct-2023 19:46:14 America/New_York] PHP Warning:  Undefined variable $username in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new_room.php on line 21
+[08-Oct-2023 19:58:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 183
+[09-Oct-2023 20:23:00 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 194
+[10-Oct-2023 19:45:47 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 19:46:04 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:01:01 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 14
+[10-Oct-2023 20:03:03 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:03:25 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:04:21 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 15
+[10-Oct-2023 20:04:21 America/New_York] PHP Warning:  Undefined variable $temp_pass in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 23
+[10-Oct-2023 20:04:21 America/New_York] PHP Warning:  Undefined variable $temp_pass in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 29
+[10-Oct-2023 20:04:21 America/New_York] PHP Warning:  Undefined variable $temp_pass in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 67
+[10-Oct-2023 20:08:07 America/New_York] PHP Warning:  Undefined variable $temp_pass in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 64
+[10-Oct-2023 20:08:43 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 12
+[10-Oct-2023 20:10:15 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 12
+[10-Oct-2023 20:11:11 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:11:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:11:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:11:48 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:13:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:13:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:13:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:13:32 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:13:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:13:37 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:15:31 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/config/functions.php on line 219
+[10-Oct-2023 20:20:20 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13
+[10-Oct-2023 20:23:07 America/New_York] PHP Warning:  Undefined array key "admin" in /home/fruitysy/public_html/resi.fruitysys.com/admin/actions/add_new.php on line 13

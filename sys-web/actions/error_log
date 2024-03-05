@@ -1,0 +1,45 @@
+[08-Oct-2023 19:58:37 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[09-Oct-2023 16:27:07 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 10
+[09-Oct-2023 17:04:44 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:05:39 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:06:54 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:06:54 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php:22
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php(22): getimagesize()
+#1 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 22
+[09-Oct-2023 17:06:56 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:06:56 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php:22
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php(22): getimagesize()
+#1 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 22
+[09-Oct-2023 17:06:59 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:06:59 America/New_York] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php:22
+Stack trace:
+#0 /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php(22): getimagesize()
+#1 {main}
+  thrown in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 22
+[09-Oct-2023 17:07:09 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:08:51 America/New_York] PHP Warning:  Undefined array key "note" in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 16
+[09-Oct-2023 17:08:51 America/New_York] PHP Warning:  Undefined variable $img in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 30
+[09-Oct-2023 17:10:25 America/New_York] PHP Warning:  Undefined variable $img in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 34
+[09-Oct-2023 17:10:41 America/New_York] PHP Warning:  Undefined variable $img in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 34
+[09-Oct-2023 17:11:45 America/New_York] PHP Warning:  Undefined variable $img in /home/fruitysy/public_html/resi.fruitysys.com/actions/add_note.php on line 34
+[09-Oct-2023 20:22:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 19:54:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 33
+[10-Oct-2023 19:54:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 33
+[10-Oct-2023 20:12:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:12:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:12:33 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:12:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:14:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:14:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:15:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:15:12 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:15:16 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:15:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[10-Oct-2023 20:15:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[14-Oct-2023 05:29:09 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[26-Oct-2023 04:36:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
+[26-Oct-2023 04:36:42 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/fruitysy/public_html/resi.fruitysys.com/actions/login.php on line 3
